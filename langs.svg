@@ -1,0 +1,29 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <title>Most Used Languages</title>
+  <defs>
+    <style><![CDATA[
+      text{font-family:'Segoe UI',system-ui,-apple-system,Arial,sans-serif}
+      .lbl{opacity:0;animation:fin 0.5s ease-out forwards}
+      @keyframes fin{to{opacity:1}}
+    ]]></style>
+  </defs>
+  <rect x="1" y="1" width="493" height="193" rx="14" fill="#12081f" stroke="#3d2461" stroke-width="2"/>
+  <text x="24" y="38" font-size="19" font-weight="700" fill="#ff77c2">📊 Most Used Languages</text>
+  <g font-size="14">
+    <g class="lbl" style="animation-delay:0.2s">
+      <text x="26" y="72" fill="#e8dcff">TypeScript</text><text x="470" y="72" text-anchor="end" fill="#9d8bc0">34%</text>
+      <rect x="26" y="80" width="444" height="9" rx="4.5" fill="#2a1548"/>
+      <rect x="26" y="80" width="0" height="9" rx="4.5" fill="#3b82f6"><animate attributeName="width" from="0" to="151" begin="0.4s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/></rect>
+    </g>
+    <g class="lbl" style="animation-delay:0.5s">
+      <text x="26" y="116" fill="#e8dcff">JavaScript</text><text x="470" y="116" text-anchor="end" fill="#9d8bc0">33%</text>
+      <rect x="26" y="124" width="444" height="9" rx="4.5" fill="#2a1548"/>
+      <rect x="26" y="124" width="0" height="9" rx="4.5" fill="#fbbf24"><animate attributeName="width" from="0" to="146" begin="0.7s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/></rect>
+    </g>
+    <g class="lbl" style="animation-delay:0.8s">
+      <text x="26" y="160" fill="#e8dcff">HTML / CSS</text><text x="470" y="160" text-anchor="end" fill="#9d8bc0">33%</text>
+      <rect x="26" y="168" width="444" height="9" rx="4.5" fill="#2a1548"/>
+      <rect x="26" y="168" width="0" height="9" rx="4.5" fill="#e34f26"><animate attributeName="width" from="0" to="146" begin="1.0s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/></rect>
+    </g>
+  </g>
+</svg>
