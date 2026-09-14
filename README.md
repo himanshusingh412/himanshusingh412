@@ -25,6 +25,8 @@ B.Tech CSE student who likes building things with JavaScript, Node.js, and Expre
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshusingh412&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshusingh412&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusingh412&layout=compact&theme=default)
 
 ## 🤝 Connect
 
